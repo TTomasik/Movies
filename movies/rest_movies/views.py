@@ -76,7 +76,7 @@ class MovieDetail(APIView):
 
 
 
-
+#GENERICS:
 # from rest_framework import generics
 #
 # class PersonList(generics.ListCreateAPIView):
